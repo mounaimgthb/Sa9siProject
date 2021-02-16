@@ -18,6 +18,9 @@ void _enablePlatformOverrideForDesktop() {
 }
 
 void main() {
+
+		// this is a simple comment
+
   _enablePlatformOverrideForDesktop();
   runApp(MyApp());
 }
